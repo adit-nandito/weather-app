@@ -1,0 +1,21 @@
+.containerWeather {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.componentWeather {
+  min-width: 400px;
+}
+
+.componentStatusWeather {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.componentDescriptionWeather {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
